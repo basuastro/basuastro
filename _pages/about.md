@@ -4,7 +4,7 @@ title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 subtitle: Incoming postdoctoral researcher. CRAL, Lyon
-subtitle: Postdoctoral researcher. MPA, Garching
+#subtitle: Postdoctoral researcher. MPA, Garching
 
 profile:
   align: right
@@ -29,8 +29,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+HELLO!!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am Arghyadeep ("Or-Gho-deep") Basu, working as a Postdoctoral researcher at Max Planck Institute for Astrophysics (MPA) at Garching, about 40 mins away from the heart of Munich, where I'm basically a cosmic detective, snooping around the universe's early days. Here I also did my PhD. working in the research group of Dr Benedetta Ciardi on topics broadly related to Early Universe Cosmology and Epoch of Reionization.  My current research focuses on exploring the impacts of sources of ionizing radiation on to Intergalactic Medium properties during Epoch of Reionization (both HI-to-HII and HeII-to-HeIII). Oh, and I'm also the cool kid on the block, exploring JWST detected UV Luminosity Function Variabilities playing with SPICE (a very high resolution recently exposed RHD cosmological simulation with different SN feedback models). Before all this, I was just a regular physics buff from Presidency University Kolkata, India, with a knack for stargazing. For more details of my research work, go to "Research Interests" and "Publications" section.
+
+I am joining CRAL, Lyon as a postdoctoral researcher in the FIRSTGAL team to work on unveiling the hidden population of galaxies from Cosmic Dawn to Cosmic Reionization.
