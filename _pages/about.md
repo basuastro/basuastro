@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-!subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 subtitle: Incoming postdoctoral researcher. CRAL, Lyon
 subtitle: Postdoctoral researcher. MPA, Garching
 
