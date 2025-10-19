@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Variability of the UV Luminosity Function with SPICE"
-description: "Exploring bursty star formation and UVLF scatter in JWST-era galaxies."
+description: "Exploring impact of stellar feedback in JWST-era galaxies."
 img: /assets/img/spice_thumbnail.jpg
 importance: 1
 category: research
